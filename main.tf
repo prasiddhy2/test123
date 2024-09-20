@@ -6,3 +6,8 @@ resource "aws_iam_user" "iam" {
 resource "aws_iam_user" "iam" {
 name="raju"
 }
+
+resource "aws_iam_user" "iam1" {
+name="ranjit"
+}
+
